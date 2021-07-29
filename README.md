@@ -23,3 +23,7 @@ Following packages should be installed on python 3:
 ## Dataset
 
 The model is trained on the famous persian poetry book of <a href="https://en.wikipedia.org/wiki/Hafez" target="_blank">The Divan of Hafez</a> by Ḥāfeẓ-e Shīrāzī, who was a Persian poet whose collected works are regarded by many Iranians as a pinnacle of Persian literature. The all his poets are inside the file named 'all_ghazals.txt'. There are around 450 poets. The pre-processing of the poets are described inside the codes. 
+
+
+## Goal
+### How much a neural network can learn to generate some text similar to persian poets written by Hafez.Let's give it a try, sounds fun :)
