@@ -34,5 +34,15 @@ You can train the model from scrath using the Google Colab notebook named `Neura
 
 ## Results
 
-I trained the model for about 2-3 hours for 30 epochs and the model has learned to some extend the style of Hafez in writting poets. :)
+I trained the model for about 2-3 hours on a GPU for 30 epochs and the model has learned to some extend the style of Hafez for writting poets. (You can take Fale Hazef using the model now HAHA)
+
+Some of the examle poems are:
+
+-لنگر شيرين و بيماری هجر تو زد از نفس
+-رحم اگر چه و سوخته دل راه و نگار
+-
+-
+-
+-
+
 
