@@ -18,7 +18,7 @@ Following packages should be installed on python 3:
 - numpy
 - random
 
-Trax is an end-to-end library for deep learning that focuses on clear code and speed. It is actively used and maintained in the Google Brain team. It is faster than Tensorflow and Pytorch and also the codes are more clear. It also supprts both TPUs and GPUs.
+<a href="https://github.com/google/trax" target="_blank">Trax</a>is an end-to-end library for deep learning that focuses on clear code and speed. It is actively used and maintained in the Google Brain team. It is faster than Tensorflow and Pytorch and also the codes are more clear. It also supprts both TPUs and GPUs.
 
 ## Dataset
 
@@ -28,4 +28,4 @@ The model is trained on the famous persian poetry book of <a href="https://en.wi
 ## Goal
 ### How much a neural network can learn to generate some text similar to persian poets written by Hafez.Let's give it a try, sounds fun :)
 
-
+###
