@@ -31,3 +31,8 @@ The model is trained on the famous persian poetry book of <a href="https://en.wi
 ## Instructions
 
 You can train the model from scrath using the Google Colab notebook named `Neural-text-Generation.ipynb`
+
+## Results
+
+I trained the model for about 2-3 hours for 30 epochs and the model has learned to some extend the style of Hafez in writting poets. :)
+
